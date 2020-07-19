@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin:admin@contact-keeper-cluster.yespf.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://admin:admin@contact-keeper-cluster.yespf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
